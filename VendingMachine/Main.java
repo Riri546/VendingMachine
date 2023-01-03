@@ -8,7 +8,6 @@ public class Main {
         VendingMachine vendingMachine2 = new VendingMachine(products);
 
         Product product = new Product("Coca-cola", 110);
-        product.cost = -10;
-
+        
     }
 }
