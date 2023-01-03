@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
-        VendingMachine vendingMachine = new VendingMachine();
-    }
+    // public static void main(String[] args) {
+    //     VendingMachine vendingMachine = new VendingMachine();
+    // }
 }
