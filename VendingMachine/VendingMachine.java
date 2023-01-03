@@ -5,8 +5,8 @@ import java.util.List;
 public class VendingMachine {
     List<Product> products;
 
-
     public VendingMachine(List<Product> products){
+        super();
         this.products = products;
     }
     
