@@ -7,7 +7,7 @@ public class Main {
         vendingMachine.addProduct(product1);
         vendingMachine.addProduct(product2);
         // vendingMachine.addProduct(product3);
-
+        
         System.out.println(vendingMachine.getProductByCost(100));
     }
 }
